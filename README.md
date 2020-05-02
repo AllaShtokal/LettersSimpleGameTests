@@ -1,4 +1,4 @@
 # LettersTests
 JUnit
 
-A game "Guess a letter"
+The game "Guess a letter"
